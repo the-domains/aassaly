@@ -2,18 +2,18 @@
     <channel>
         <title><![CDATA[AAssaly]]></title>
         <description><![CDATA[AAssaly]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aassaly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 21:29:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 22:19:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aassaly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[
 Is there a right way to make complicated applications usable?]]></title>
             <description><![CDATA[<article><h1>
 Is there a right way to make complicated applications usable?</h1><h2>Simple-Application: Usability Example</h2><p>What is it exactly that makes some complicated programs more user friendly than others? That's what I intend to demonstrate using a couple of examples.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/981c694f93d56cc9381638a6db49e45f415c3cbd.png"></article>]]></description>
-            <link>undefinedis-there-a-right-way-to-make-complicated-applications-usable/index.html</link>
+            <link>https://thegrid.ai/aassaly/is-there-a-right-way-to-make-complicated-applications-usable/index.html</link>
             <guid isPermaLink="false">edb96e9c-a8aa-4d93-bc59-ba1d97ce7165</guid>
-            <pubDate>Sat, 05 Mar 2016 21:28:58 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 22:19:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
