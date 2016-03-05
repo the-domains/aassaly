@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Deliverable For Class Project
-datePublished: '2016-03-05T20:58:06.151Z'
-dateModified: '2016-03-05T20:56:13.840Z'
+datePublished: '2016-03-05T20:58:46.960Z'
+dateModified: '2016-03-05T20:58:46.681Z'
 title: |-
 
   Is there a right way to make complicated applications usable?
