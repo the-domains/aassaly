@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AAssaly]]></title>
+        <description><![CDATA[AAssaly]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 20:40:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is there a right way to make complicated applications usable?]]></title>
+            <description><![CDATA[<article><h1>Is there a right way to make complicated applications usable?</h1><h2>Usability Examples</h2><p>There are many expert-level applications which possess advanced functionalities useful for professionals, but which are also geared towards the average person. A classic example of this is Adobe's entire creative suite available either for purchase or on a subscription basis on their Creative Cloud. These programs are used by professionals to complete extremely advanced tasks such as creating visual effects for movies/photos or designing a video games on a daily basis. The average person, myself included, only ever use a small portion of the tools at their disposal when using expert applications such as these unless we take courses or read instructional material to learn.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/981c694f93d56cc9381638a6db49e45f415c3cbd.png"></article>]]></description>
+            <link>undefinedis-there-a-right-way-to-make-complicated-applications-usable/index.html</link>
+            <guid isPermaLink="false">edb96e9c-a8aa-4d93-bc59-ba1d97ce7165</guid>
+            <pubDate>Sat, 05 Mar 2016 20:40:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
