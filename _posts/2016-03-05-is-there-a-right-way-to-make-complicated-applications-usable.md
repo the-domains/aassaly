@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: Deliverable For Class Project
-datePublished: '2016-03-05T21:28:58.998Z'
-dateModified: '2016-03-05T21:27:55.017Z'
+datePublished: '2016-03-05T22:19:34.346Z'
+dateModified: '2016-03-05T22:16:34.215Z'
 title: |-
 
   Is there a right way to make complicated applications usable?
@@ -42,14 +42,18 @@ In brief UCD combines aspects from each of these fields: cognitive and social ps
 The UX between two functionally equivalent pieces of expert software can greatly differ. My intent is to compare several expert systems to determine if there are any trends which directly affect the UX either in a positive or negative way. Examples will be taken from applications in the following fields: Software Development, Digital Photography, Office Work, and MRI analysis for medical professionals. Before getting to the more complicated examples I'll start with a simple one: OC Transpo's Travel Planner.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79f7263b-6470-4fb4-b1c0-0239f16eeeb7.jpg)
 
-OC Transpo recently released their new travel planner. They describe the new planner by saying it "will provide you with some big improvements, compared to the current version" \[3\]. Figure 2 above is a comparison between the two systems. OC Transpo maintains that the core functionality remains the same in that "travel solutions and schedules are identical in all versions of the travel planner"\[3\]. Comparing the two versions it's easy to see why the new travel planner provides a better UX, however it's not as straightforward as it may seem.
+OC Transpo recently released their new travel planner. They describe the new planner by saying it "will provide you with some big improvements, compared to the current version" \[3\]. Figure 2 above is a comparison between the two systems. OC Transpo maintains that the core functionality remains the same in that "travel solutions and schedules are identical in all versions of the travel planner"\[3\]. Comparing the two versions it's easy to see why the new travel planner provides a better UX, however it's not as straightforward as it may seem. In addition to providing the same functionality to the end-user the new travel planner also provides the user with a multitude of enhancements including: a full screen google map, and also integrates a new function allowing users to see departure times for all routes at a Transitway station.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be68668c-a797-4d23-9043-498bea9b61b4.png)
 
-While the new system is simultaneously aesthetically pleasing and visually informative the new travel planner's website is deceiving. The red-colored menu bar along the top of the new travel planner is not actually part of the new system, but is instead a standard website navigational menu which navigates to other OC Transpo web pages. This was a design decision which the developers thought would positively improve the user experience because it provides answers to commonly asked questions while visually complimenting the travel planner with the company's signature red color. There is still room for improvement, however, because clicking on one of these menu items actually redirects the browser outside of the travel planner system. A possible solution to make this aspect of the system more user friendly developers could force each of the menu items to open their links in a  new tab/window. Another possibility could be to modify 
+The old Travel Planner allows users to plan a trip, but in order to do so the user must know their current address and their destination address. The planner gives the user 6 different ways to enter this information: using an address, an intersection, a landmark, a bus-stop number, a map, or history (previously used queries). My first time using this system was confusing because the form does not provide much useful feedback regarding the advancement from step to step. For example, Figure 3 above demonstrates what happens when a user attempts to specify their beginning address. Notice how immediately upon pressing okay the text-field is emptied, and a very small text label appears under the "From" portion of the progress bar. While this does provide some feedback to the user the change is not evident enough. As a first time user of the system myself I thought that I had to re-enter my address because I didn't even realize that it accepted my original input. It was only after attempting to use the same address again that a warning message appeared to tell me there are no routes that go to/from the same address. Feel free to try this out for yourself.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27fc0d3d-92da-4cd2-9ddf-450104ca5c09.gif)
 
-* **Full screen Google map**for selecting destinations and viewing your trip.
-* **Multiple solutions**-- choose from several route itineraries to easily explore different options.
-* **Dynamic route timetable**-- choose a trip and view its routing on the Google map.
-* **Station timetables**-- see departure times for all routes at a Transitway station.
+Another downfall of the old travel planner is that the map is not what the average user has grown accustomed to. Google maps has become the defacto standard for anyone wanting directions these days due to it's cartographic detail and ease-of-use. The way the map in the old travel planner works is demonstrated in Figure 4 above. Each slide of the graphic depicts what happens as the user moves the mouse over a different area of the map.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e93ad5f3-5358-4b97-80e9-4932dfd1a3c5.png)
+
+While the new system is simultaneously aesthetically pleasing and visually informative the new travel planner's website is deceiving. The red-colored menu bar along the top of the new travel planner is not actually part of the new system, but is instead a standard website navigational menu which navigates to other OC Transpo web pages. This was a design decision which the developers thought would positively improve the user experience because it provides answers to commonly asked questions while visually complimenting the travel planner with the company's signature red color.
+
+There is still room for improvement, however, because clicking on one of these menu items actually redirects the browser outside of the travel planner system. A possible solution to make this aspect of the system more user friendly is for each of the menu items to forcefully open their links in new tabs/windows. Another possibility could be to modify 
 
 ## Pro-Application: Usability Example
 
