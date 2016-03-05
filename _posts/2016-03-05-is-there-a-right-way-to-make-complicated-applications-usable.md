@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Deliverable For Class Project
-datePublished: '2016-03-05T21:22:13.928Z'
-dateModified: '2016-03-05T21:21:50.162Z'
+datePublished: '2016-03-05T21:28:58.998Z'
+dateModified: '2016-03-05T21:27:55.017Z'
 title: |-
 
   Is there a right way to make complicated applications usable?
@@ -21,7 +21,7 @@ publisher:
   url: null
   favicon: null
 url: is-there-a-right-way-to-make-complicated-applications-usable/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Is there a right way to make complicated applications usable?
