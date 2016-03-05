@@ -1,7 +1,7 @@
 name: AAssaly
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.9820769319776446
+layout_spectrum: 0.50326
+typography_spectrum: 0.93478
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#c17d11'
-    - '#000000'
-    - '#edd400'
-    - '#ffffff'
-    - '#3465a4'
-  brandStrength: 0.375
-  lightness: 0.6875
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+    - '#170c14'
+    - '#40fb88'
+    - '#e6d256'
+    - '#1f8b36'
+    - '#a18340'
+  brandStrength: 0.25
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
