@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Deliverable For Class Project
-datePublished: '2016-03-05T20:40:21.768Z'
-dateModified: '2016-03-05T20:40:04.440Z'
+datePublished: '2016-03-05T20:55:11.868Z'
+dateModified: '2016-03-05T20:51:03.188Z'
 title: Is there a right way to make complicated applications usable?
 author: []
+sourcePath: _posts/2016-03-05-is-there-a-right-way-to-make-complicated-applications-usable.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-is-there-a-right-way-to-make-complicated-applications-usable.md
-published: true
 url: is-there-a-right-way-to-make-complicated-applications-usable/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Is there a right way to make complicated applications usable?
